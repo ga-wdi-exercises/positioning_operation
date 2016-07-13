@@ -2,4 +2,4 @@
 
 Follow the instructions in index.html.
 
-Here's one solution: http://ga-dc.github.io/positioning_operation/
+Here's one solution: http://ga-wdi-exercises.github.io/positioning_operation/
